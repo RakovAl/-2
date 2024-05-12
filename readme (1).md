@@ -7,8 +7,12 @@
 3.	Модуль pyheat
 4.	Средства ОС Windows: Монитор Ресурсов (resource monitor); Монитора производительности (perfmon).
 
-![Фото](https://raw.githubusercontent.com/RakovAl/laba2/95369270432c9a1f1ad73a9ee24cf3de2c47e08f/100.jpg?token=BIOBIWD6DSKBFQ4TZEM74MLGIESEY)"Время для 100 элементов методом слияния"
-![Фото](https://raw.githubusercontent.com/RakovAl/laba2/95369270432c9a1f1ad73a9ee24cf3de2c47e08f/image.png?token=BIOBIWDPP4IYJWUIT2ALNYDGIESQU)"Нагрузка для 100 элементов методом слияние"
+![Фото](https://raw.githubusercontent.com/RakovAl/laba2/95369270432c9a1f1ad73a9ee24cf3de2c47e08f/100.jpg?token=BIOBIWD6DSKBFQ4TZEM74MLGIESEY)
+"Время для 100 элементов методом слияния"
+
+![Фото](https://raw.githubusercontent.com/RakovAl/laba2/95369270432c9a1f1ad73a9ee24cf3de2c47e08f/image.png?token=BIOBIWDPP4IYJWUIT2ALNYDGIESQU)
+
+"Нагрузка для 100 элементов методом слияние"
 
 | Алгоритм | 100 эл.    | 10000 эл. | 1000000 эл. |
 |:----------:|:------------:|:-----------:|:-------------:|
